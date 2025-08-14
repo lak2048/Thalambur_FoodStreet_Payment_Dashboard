@@ -1,6 +1,6 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
 Shop 1,Frozen Cups,-,-,200000,23000,23000,Paid,1480,Paid,0,NA,,
-Shop 2,Arab Station,-,-,200000,23000,21000,Paid,930,Pending,0,NA,5500,Pending
+Shop 2,Arab Station,-,-,200000,23000,21000,Pending,930,Pending,0,NA,5500,Pending
 Shop 4,Simply Kebab,-,-,200000,23000,23000,Pending,0,Paid,0,NA,,
 Shop 5,King Nattamai,-,-,200000,23000,23000,Pending,930,Pending,0,NA,5500,Pending
 Shop 6,Chennai Kulfi,-,-,200000,21000,21000,Paid,1480,Pending,0,NA,,
@@ -10,4 +10,5 @@ Shop 12,Curtains & Co.,-,-,200000,15000,15000,Paid,930,Paid,0,NA,,
 Shop 16,The Waffle Shop,-,-,200000,13000,13000,Paid,930,Paid,0,NA,,
 Shop 17,Irani Chai,-,-,200000,21000,21000,Paid,1480,Pending,0,NA,5500,Paid
 Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Paid,2255,Paid,0,NA,0,NA
+
 
