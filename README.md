@@ -1,0 +1,2 @@
+# Thalambur_FoodStreet_Payment_Dashboard
+Shop rent details
