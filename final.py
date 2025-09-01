@@ -129,7 +129,7 @@ class MultiShopManagerApp:
             ttk.Label(payments_lf, text=f"{p_type} Amount:").grid(row=i, column=0, sticky="w", padx=5, pady=5)
             amt_entry = ttk.Entry(payments_lf); amt_entry.grid(row=i, column=1, padx=5, pady=5, sticky="ew")
             ttk.Label(payments_lf, text="Status:").grid(row=i, column=2, sticky="w", padx=10, pady=5)
-            if p_type in ["EB", "Room Rent"]: combo_values = ["Paid", "Pending", "NA"]
+            if p_type in ["EB", "Room Rent", "Genset"]: combo_values = ["Paid", "Pending", "NA"]
             else: combo_values = ["Paid", "Pending"]
             status_combo = ttk.Combobox(payments_lf, values=combo_values, state="readonly"); status_combo.grid(row=i, column=3, padx=5, pady=5, sticky="ew")
             self.payment_entries[p_type] = (amt_entry, status_combo)
