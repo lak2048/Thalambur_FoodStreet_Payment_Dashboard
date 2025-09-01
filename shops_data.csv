@@ -1,6 +1,6 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
 Shop 1,Frozen Cups,-,-,200000,23000,23000,Pending,0,NA,13073,Pending,0,NA
-Shop 2,Arab Station,-,-,200000,23000,21000,Pending,0,NA,8364,NA,5500,Pending
+Shop 2,Arab Station,-,-,200000,23000,21000,Pending,0,NA,8364,Pending,5500,Pending
 Shop 4,Simply Kebab,-,-,200000,23000,23000,Pending,0,NA,2363,Pending,0,NA
 Shop 5,King Nattamai,-,-,200000,23000,23000,Pending,0,NA,0,Pending,5500,Pending
 Shop 6,Chennai Kulfi,-,-,200000,21000,21000,Pending,1480,NA,12869,Pending,0,NA
