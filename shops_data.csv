@@ -1,30 +1,12 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
-Shop 1,Frozen Cups,-,-,200000,23000,23000,Paid,1480,Paid,13073,Pending,,
-Shop 2,Arab Station,-,-,200000,23000,23000,Paid,930,Paid,8364,Pending,5500,Paid
-Shop 4,Simply Kebab,-,-,200000,23000,23000,Pending, 0,Paid,2363,Pending,,
-Shop 5,King Nattamai,-,-,200000,23000,23000,Pending,930,Pending,0,NA,5500,Pending
-Shop 6,Chennai Kulfi,-,-,200000,21000,21000,Paid,1480,Paid,12869,Pending,,
-Shop 8,The Royal Beef,-,-,200000,18000,18000,Paid,930,Paid,3366,Pending,,
-Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Paid,930,Paid,11509,Paid,,
-Shop 12,Curtains & Co.,-,-,200000,15000,15000,Paid,930,Paid,1156,Pending,,
-Shop 16,The Waffle Shop,-,-,200000,13000,13000,Paid,930,Paid,6460,Pending,,
-Shop 17,Irani Chai,-,-,200000,21000,21000,Paid,1480,Paid,15130,Pending,5500,Paid
-Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Paid,2255,Paid,63272,Pending,0,NA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Shop 1,Frozen Cups,-,-,200000,23000,23000,Pending,0,NA,13073,Pending,0,NA
+Shop 2,Arab Station,-,-,200000,23000,21000,Pending,0,NA,8364,NA,5500,Pending
+Shop 4,Simply Kebab,-,-,200000,23000,23000,Pending,0,NA,2363,Pending,0,NA
+Shop 5,King Nattamai,-,-,200000,23000,23000,Pending,0,NA,0,Pending,5500,Pending
+Shop 6,Chennai Kulfi,-,-,200000,21000,21000,Pending,1480,NA,12869,Pending,0,NA
+Shop 8,The Royal Beef,-,-,200000,18000,18000,Pending,0,NA,3366,Pending,0,NA
+Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Paid,0,NA,11509,Paid,0,NA
+Shop 12,Curtains & Co.,-,-,200000,15000,15000,Pending,0,NA,1156,Pending,0,NA
+Shop 16,The Waffle Shop,-,-,200000,13000,13000,Pending,0,NA,6460,Pending,0,NA
+Shop 17,Irani Chai,-,-,200000,21000,21000,Pending,0,NA,15130,Pending,5500,Pending
+Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Pending,0,NA,63272,Pending,0,NA
