@@ -1,5 +1,5 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
-Shop 1,Frozen Cups,-,-,200000,20000,20000,Pending,600,Pending,0,NA,0,NA
+Shop 1,Frozen Cups,-,-,200000,20000,20000,Paid,600,Paid,0,NA,0,NA
 Shop 2,Arab Station,-,-,200000,20000,20000,Pending,600,Pending,8364,Pending,11000,Pending
 Shop 5,King Nattamai,-,-,200000,18000,151836,Pending,0,NA,0,NA,0,NA
 Shop 6,Chennai Kulfi,-,-,200000,18000,18000,Paid,600,Paid,0,NA,3000,Paid
@@ -10,6 +10,7 @@ Shop 17,Irani Chai,-,-,200000,18000,18000,Pending,600,Pending,0,NA,5500,Pending
 Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Pending,1000,Pending,0,NA,0,NA
 Shop 15,Chaat Wibes,,,,13000,13000,Paid,500,Paid,0,NA,0,NA
 Shop 18,Maroha Threads LLP,Dinesh,,100000,8000,7000,Paid,0,NA,0,NA,0,NA
+
 
 
 
