@@ -1,15 +1,16 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
-Shop 1,Frozen Cups,-,-,200000,20000,20000,Paid,600,Paid,0,NA,0,NA
-Shop 2,Arab Station,-,-,200000,20000,20000,Pending,600,Pending,8364,Pending,11000,Pending
+Shop 1,Frozen Cups,-,-,200000,20000,20000,Paid,600,Paid,9600,Pending,0,NA
+Shop 2,Arab Station,-,-,200000,20000,20000,Pending,600,Pending,16332,Pending,11000,Pending
 Shop 5,King Nattamai,-,-,200000,18000,151836,Pending,0,NA,0,NA,0,NA
-Shop 6,Chennai Kulfi,-,-,200000,18000,18000,Paid,600,Paid,0,NA,3000,Paid
-Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Paid,500,Pending,0,NA,0,NA
-Shop 12,Curtains & Co.,-,-,200000,15000,15000,Paid,0,NA,0,NA,0,NA
-Shop 16,The Waffle Shop,-,-,200000,13000,13000,Paid,600,Paid,0,NA,0,NA
-Shop 17,Irani Chai,-,-,200000,18000,18000,Paid,600,Paid,0,NA,5500,Paid
-Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Paid,1000,Paid,0,NA,0,NA
+Shop 6,Chennai Kulfi,-,-,200000,18000,18000,Paid,600,Paid,9766,Pending,3000,Paid
+Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Paid,500,Pending,11344,Pending,0,NA
+Shop 12,Curtains & Co.,-,-,200000,15000,15000,Paid,0,NA,848,Pending,0,NA
+Shop 16,The Waffle Shop,-,-,200000,13000,13000,Paid,600,Paid,6448,Pending,0,NA
+Shop 17,Irani Chai,-,-,200000,18000,18000,Paid,600,Paid,11600,Pending,5500,Paid
+Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Paid,1000,Paid,76096,Pending,0,NA
 Shop 15,Chaat Wibes,,,,13000,13000,Paid,500,Paid,0,NA,0,NA
 Shop 18,Maroha Threads LLP,Dinesh,,100000,8000,7000,Paid,0,NA,0,NA,0,NA
+
 
 
 
