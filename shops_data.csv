@@ -1,14 +1,15 @@
 shop_num,shop_name,owner,address,advance,base_rent,rent_amt,rent_status,genset_amt,genset_status,eb_amt,eb_status,room_rent_amt,room_rent_status
-Shop 1,Frozen Cups,-,-,200000,20000,20000,Pending,0,NA,,NA,0,NA
-Shop 2,Arab Station,-,-,200000,20000,20000,Pending,600,Pending,7968,Pending,11000,Pending
-Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Pending,0,NA,0,NA,0,NA
+Shop 1,Frozen Cups,-,-,200000,20000,20000,Pending,800,Pending,,NA,0,NA
+Shop 2,Arab Station,-,-,200000,20000,20000,Pending,1100,Pending,7968,Pending,11000,Pending
+Shop 11,Yum Sandwich Cafe,-,-,200000,18000,18000,Pending,500,Pending,0,NA,0,NA
 Shop 12,Curtains & Co.,-,-,200000,15000,15000,Pending,0,NA,0,NA,0,NA
-Shop 16,The Waffle Shop,-,-,200000,13000,13000,Pending,0,NA,0,NA,0,NA
-Shop 17,Irani Chai,-,-,200000,18000,18000,Pending,0,NA,0,NA,5500,Pending
+Shop 16,The Waffle Shop,-,-,200000,13000,13000,Pending,500,Pending,0,NA,0,NA
+Shop 17,Irani Chai,-,-,200000,18000,18000,Pending,800,Pending,0,NA,5500,Pending
 Shop - First Floor,Mindset - Fitness Studio,-,-,1500000,191000,191000,Pending,0,NA,0,NA,0,NA
 Shop 15,Chaat Wibes,,,,13000,13000,Pending,0,NA,0,NA,0,NA
 Shop 18,Maroha Threads LLP,Dinesh,,100000,8000,7000,Pending,0,NA,0,NA,0,NA
 Shop 14,Mobile Repair Hub,Anand,,100000,12000,12000,Paid,0,NA,0,NA,0,NA
 Shop 4,Aadhira Xerox & e-Seva,,,200000,18000,18000,Pending,0,NA,0,NA,0,NA
 0,Riche 'N' Riche,,,,,0,Pending,0,NA,0,NA,11000,Pending
+
 
